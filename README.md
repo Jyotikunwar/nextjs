@@ -1,4 +1,6 @@
 # nextjs
 website about login and sign up page
 <br>
-Author Jyoti Kunwar
+Author Jyoti Kunwar(Jyoti kunwar)
+
+
